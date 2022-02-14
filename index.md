@@ -12,7 +12,7 @@
 <img src="images/ModifiedDeSmetSouthDakota.png?raw=true"/>
 
 ---
-[Networks](http://example.com/)
+[Network Analysis](http://example.com/)
 <img src="images/Eden_Project4.png?raw=true"/>
 
 ---
