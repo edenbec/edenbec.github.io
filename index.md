@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Air Quality in SLC 
 
-[Project 1 Title](/sample_page)
+[Air Quality and Public Transportation](/sample_page)
 <img src="images/2019 IDW Map1.png?raw=true"/>
 
 ---
