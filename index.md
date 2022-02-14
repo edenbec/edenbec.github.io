@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### My Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Study of Air Quality](/sample_page)
+<img src="images/2019 IDW Map1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
