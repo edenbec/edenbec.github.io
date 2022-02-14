@@ -2,9 +2,9 @@
 
 ---
 
-### Air Quality in SLC 
+### My Projects 
 
-[Air Quality and Public Transportation](/sample_page)
+[Study of Air Quality](/sample_page)
 <img src="images/2019 IDW Map1.png?raw=true"/>
 
 ---
