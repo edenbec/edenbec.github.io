@@ -19,7 +19,7 @@
 
 ### Simple Map
 
-- [![Historic Lake Bonneville vs The Great Salt Lake](images/BonnevilleVsGSL.png)](https://arcg.is/0C8ere0 (Links to an external site.))
+- [![Historic Lake Bonneville vs The Great Salt Lake](images/BonnevilleVsGSL.png)](https://arcg.is/0C8ere0)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
