@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### Simple Map
 
-- [Project 1 Title](http://example.com/)
+- [![Historic Lake Bonneville vs The Great Salt Lake](images/BonnevilleVsGSL.png)](https://arcg.is/Oyunj0 (Links to an external site.))
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
