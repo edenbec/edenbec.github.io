@@ -9,6 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   a position that enables me to do both.
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
+  <br><br>
   [![Bonneville vs Great Salt Lake](images/Bonneville vs GSL.png)](https://arcg.is/1meGqG (Links to an external site.))
   
 theme: jekyll-theme-minimal
