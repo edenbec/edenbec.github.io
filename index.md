@@ -2,7 +2,7 @@
 
 ---
 
-### My Projects 
+### Projects 
 
 [Study of Air Quality](/sample_page)
 <img src="images/2019 IDW Map1.png?raw=true"/>
