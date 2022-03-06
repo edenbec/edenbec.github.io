@@ -20,7 +20,7 @@
 ### Mapping via different platforms
 
 - [![Historic Lake Bonneville vs The Great Salt Lake](images/BonnevilleVsGSL.png)](https://arcg.is/0C8ere0)
-- [![Split Screen of before and after a burn](https://edenbeca.users.earthengine.app/view/before-and-after-a-burn)
+- [Split Screen of before and after a burn](https://edenbeca.users.earthengine.app/view/before-and-after-a-burn)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
